@@ -50,7 +50,7 @@ const Home = () => {
                         <Store className="w-6 h-6" />
                     </div>
                     <div>
-                        <h1 className="text-xl font-bold leading-tight">SCAN NEWSHOP</h1>
+                        <h1 className="text-xl font-bold leading-tight">SCAN FACIL/SOYE</h1>
                         <p className="text-xs opacity-70">Sistema de inventário</p>
                     </div>
                 </div>
@@ -110,7 +110,7 @@ const Home = () => {
 
             {/* Footer */}
             <div className="px-5 py-4 text-center">
-                <p className="text-xs text-muted-foreground">SCAN NEWSHOP © 2025</p>
+                <p className="text-xs text-muted-foreground">SCAN FACIL/SOYE © 2025</p>
             </div>
         </div>
     );
