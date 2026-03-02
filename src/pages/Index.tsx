@@ -159,7 +159,7 @@ const Index = () => {
           </button>
           <ScanBarcode className="w-7 h-7" />
           <div>
-            <h1 className="text-lg font-bold leading-tight">SCAN NEWSHOP</h1>
+            <h1 className="text-lg font-bold leading-tight">SCAN FACIL/SOYE </h1>
             <p className="text-xs opacity-80">
               {activeList
                 ? `${activeList.title} • ${productCount} produto(s)`
